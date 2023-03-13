@@ -1,0 +1,58 @@
+{
+  "Groceries": {
+    "import_payee_name": [
+      "safeway",
+      "trader joe",
+      "costco"
+    ]
+  },
+  "Outings (dinner, movies, etc.)": {
+    "import_payee_name": [
+      "starbucks",
+      "Prime Video"
+    ]
+  },
+  "Subscriptions ": {
+    "import_payee_name": [
+      "netflix",
+      "spotify"
+    ]
+  },
+  "Utilities": {
+    "import_payee_name": [
+      "lemonade",
+      "microsoft\\*subscription",
+      "Verizon Wireless"
+    ]
+  },
+  "Car Expenses": {
+    "import_payee_name": [
+      "Metromile Insurance",
+      "Shell"
+    ]
+  },
+  "Travel": {
+    "import_payee_name": [
+      "Delta"
+    ]
+  },
+  "Inflow: Ready to Assign": {
+    "import_payee_name": [
+      "Job Co"
+    ]
+  },
+  "custom": [
+    [
+      "Amazon\u00ae",
+      "\"||amazon||\" in import_payee_name"
+    ],
+    [
+      "Qube",
+      "\"||qube||\" in import_payee_name"
+    ],
+    [
+      "Tax Payments",
+      "\"||USATAXPYMT||\" in import_payee_name"
+    ]
+  ]
+}
